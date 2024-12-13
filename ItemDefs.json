@@ -664,7 +664,7 @@
 	{
 		"itemdefid": 101,
 		"type":  "item",
-		"name": "Rusty container",
+		"name": "Magma Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/101_200.png",
@@ -676,7 +676,7 @@
 	{
 		"itemdefid": 102,
 		"type":  "item",
-		"name": "Bronze container",
+		"name": "Terra Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/102_200.png",
@@ -688,7 +688,7 @@
 	{
 		"itemdefid": 103,
 		"type":  "item",
-		"name": "Silver container",
+		"name": "Phantom Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/103_200.png",
@@ -700,7 +700,7 @@
 	{
 		"itemdefid": 104,
 		"type":  "item",
-		"name": "Gold container",
+		"name": "Fusion Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/104_200.png",
@@ -712,7 +712,7 @@
 	{
 		"itemdefid": 105,
 		"type":  "item",
-		"name": "Graffiti container",
+		"name": "Vector Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/105_200.png",
@@ -724,7 +724,7 @@
 	{
 		"itemdefid": 106,
 		"type":  "item",
-		"name": "Lightning container",
+		"name": "Onyx Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/106_200.png",
@@ -736,7 +736,7 @@
 	{
 		"itemdefid": 107,
 		"type":  "item",
-		"name": "Rainbow container",
+		"name": "Delta Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/107_200.png",
@@ -748,7 +748,7 @@
         {
 		"itemdefid": 108,
 		"type":  "item",
-		"name": "Mythical container",
+		"name": "Frontier Case",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/108_200.png",
