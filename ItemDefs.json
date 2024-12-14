@@ -678,7 +678,7 @@
 		"type":  "item",
 		"name": "Terra Case",
 		"name_color":  "d2d2d2",
-		"background_color":  "071215",
+		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/102_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/102_600.png",
 		"tradable": true,
