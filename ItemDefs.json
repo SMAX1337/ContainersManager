@@ -683,7 +683,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/102_600.png",
 		"tradable": true,
 		"marketable": true,
-		"price_category": 025,
+		"price": "1;VLV25",
 		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Baz 2101[/COLOR] [*][COLOR=#5398d9]Grotti Julietta 156[/COLOR] [*][COLOR=#4b69ff]Maibatsu Evo Nine[/COLOR] [*][COLOR=#d32ce6]Benefactor G63[/COLOR] [*][COLOR=#de4b4b]Annis Sky R50[/COLOR] [*][COLOR=#ffae42]Lampadati Cinq[/COLOR]"
 	},
 	{
