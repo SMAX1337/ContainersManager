@@ -757,6 +757,18 @@
 		"tradable": true,
 		"marketable": true,
 		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Chronos Hourglass[/COLOR] [*][COLOR=#5398d9]King Arthur's dagger[/COLOR] [*][COLOR=#4b69ff]The invisibility helmet[/COLOR] [*][COLOR=#d32ce6]A mermaid's tear[/COLOR] [*][COLOR=#de4b4b]Loki's amulet[/COLOR] [*][COLOR=#fff34f]Dragon egg[/COLOR]"
-	}
+	},
+	{
+		"itemdefid": 201,
+		"type":  "item",
+		"name": "Magma Case Key",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/201_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/201_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description": "This key only opens Magma Cases"
+	},
 	]
 }
