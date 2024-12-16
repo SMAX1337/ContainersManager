@@ -769,6 +769,6 @@
 		"tradable": true,
 		"marketable": true,
 		"description": "This key only opens Magma Cases"
-	},
+	}
 	]
 }
