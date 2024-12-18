@@ -12,7 +12,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/1_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Bronze%20container]• Bronze collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Terra%20Case]• Terra collection[/url][/code][/COLOR]"
 	},
         {
 		"itemdefid": 2,
@@ -25,7 +25,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/2_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Gold%20container]• Gold collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 3,
@@ -38,7 +38,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/3_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Graffiti%20container]• Graffiti collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 4,
@@ -51,7 +51,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/4_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Lightning%20container]• Lightning collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Onyx%20Case]• Onyx collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 5,
@@ -64,7 +64,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/5_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 6,
@@ -77,7 +77,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/6_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rusty%20container]• Rusty collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Magma%20Case]• Magma collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 7,
@@ -90,7 +90,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/7_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Phantom%20Case]• Phantom collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 8,
@@ -103,8 +103,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/8_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Древний артефакт, контролирующий течение времени и позволяющий видеть моменты прошлого\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
-                "description_english": "An ancient artifact that controls the flow of time and allows glimpses into the past\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
+		"description_russian": "Древний артефакт, контролирующий течение времени и позволяющий видеть моменты прошлого\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact that controls the flow of time and allows glimpses into the past\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 11,
@@ -117,7 +117,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/11_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Bronze%20container]• Bronze collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Terra%20Case]• Terra collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 12,
@@ -130,7 +130,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/12_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Gold%20container]• Gold collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 13,
@@ -143,7 +143,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/13_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Graffiti%20container]• Graffiti collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 14,
@@ -156,7 +156,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/14_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Lightning%20container]• Lightning collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Onyx%20Case]• Onyx collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 15,
@@ -169,7 +169,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/15_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 16,
@@ -182,7 +182,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/16_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rusty%20container]• Rusty collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Magma%20Case]• Magma collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 17,
@@ -195,7 +195,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/17_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Phantom%20Case]• Phantom collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 18,
@@ -208,8 +208,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/18_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Легендарное оружие из священного арсенала Артура, наделенное силой сражаться со злом\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
-                "description_english": "A legendary weapon from Arthur's sacred arsenal, imbued with the power to fight evil\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
+		"description_russian": "Легендарное оружие из священного арсенала Артура, наделенное силой сражаться со злом\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]",
+                "description_english": "A legendary weapon from Arthur's sacred arsenal, imbued with the power to fight evil\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 21,
@@ -222,7 +222,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/21_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Bronze%20container]• Bronze collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Terra%20Case]• Terra collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 22,
@@ -235,7 +235,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/22_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Gold%20container]• Gold collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 23,
@@ -248,7 +248,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/23_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Graffiti%20container]• Graffiti collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 24,
@@ -261,7 +261,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/24_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Lightning%20container]• Lightning collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Onyx%20Case]• Onyx collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 25,
@@ -274,7 +274,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/25_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 26,
@@ -287,7 +287,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/26_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rusty%20container]• Rusty collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Magma%20Case]• Magma collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 27,
@@ -300,7 +300,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/27_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Phantom%20Case]• Phantom collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 28,
@@ -313,8 +313,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/28_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Древний артефакт, носитель которого становится невидимым для всех глаз, включая богов\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
-                "description_english": "An ancient artifact that renders its wearer invisible to all eyes, including those of the gods\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
+		"description_russian": "Древний артефакт, носитель которого становится невидимым для всех глаз, включая богов\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact that renders its wearer invisible to all eyes, including those of the gods\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 31,
@@ -327,7 +327,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/31_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Bronze%20container]• Bronze collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Terra%20Case]• Terra collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 32,
@@ -340,7 +340,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/32_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Gold%20container]• Gold collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 33,
@@ -353,7 +353,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/33_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Graffiti%20container]• Graffiti collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 34,
@@ -366,7 +366,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/34_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Lightning%20container]• Lightning collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Onyx%20Case]• Onyx collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 35,
@@ -379,7 +379,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/35_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 36,
@@ -392,7 +392,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/36_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rusty%20container]• Rusty collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Magma%20Case]• Magma collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 37,
@@ -405,7 +405,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/37_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Phantom%20Case]• Phantom collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 38,
@@ -418,13 +418,13 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/38_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Магическая слеза древнего морского существа, способная исцелять и открывать тайны морских глубин\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
-                "description_english": "A magical tear from an ancient sea creature, capable of healing and revealing the mysteries of the deep\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
+		"description_russian": "Магическая слеза древнего морского существа, способная исцелять и открывать тайны морских глубин\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]",
+                "description_english": "A magical tear from an ancient sea creature, capable of healing and revealing the mysteries of the deep\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 41,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Annis Sky R50",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -432,12 +432,12 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/41_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Bronze%20container]• Bronze collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Terra%20Case]• Terra collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 42,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Vapid Mustang GT",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -445,12 +445,12 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/42_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Gold%20container]• Gold collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 43,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Enus Cullins",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -458,12 +458,12 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/43_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Lightning%20container]• Lightning collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Onyx%20Case]• Onyx collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 44,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Benefactor AVRT",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -471,12 +471,12 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/44_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 45,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Truffade Veyro",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -484,12 +484,12 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/45_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rusty%20container]• Rusty collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Magma%20Case]• Magma collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 46,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Obey AR8",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -497,12 +497,12 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/46_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Phantom%20Case]• Phantom collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 47,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Pfister 918",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -510,12 +510,12 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/47_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Graffiti%20container]• Graffiti collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 48,
 		"type":  "item",
-		"tags": "quality:mythic",
+		"tags": "quality:Frontier",
 		"name": "Loki's amulet",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -523,8 +523,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/48_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Амулет, заряженный хитростью и магией бога обмана, способный изменять реальность в свою пользу\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
-                "description_english": "An amulet charged with the cunning and magic of the trickster god, capable of altering reality in the owner's favor\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
+		"description_russian": "Амулет, заряженный хитростью и магией бога обмана, способный изменять реальность в свою пользу\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]",
+                "description_english": "An amulet charged with the cunning and magic of the trickster god, capable of altering reality in the owner's favor\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 51,
@@ -537,7 +537,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/51_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Bronze%20container]• Bronze collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Terra%20Case]• Terra collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 52,
@@ -550,7 +550,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/52_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Gold%20container]• Gold collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 53,
@@ -563,7 +563,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/53_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Graffiti%20container]• Graffiti collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Fusion%20Case]• Fusion collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 54,
@@ -576,7 +576,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/54_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Lightning%20container]• Lightning collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Onyx%20Case]• Onyx collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 55,
@@ -589,7 +589,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/55_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rusty%20container]• Rusty collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Magma%20Case]• Magma collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 56,
@@ -602,7 +602,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/56_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
+		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Phantom%20Case]• Phantom collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 57,
@@ -615,8 +615,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/57_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_english": "[COLOR=#fff34f]A symbol of absolute freedom and power. This yacht is made for those who seek adventure and aren’t afraid to conquer the waves. Unique and rare, it guarantees unforgettable journeys for its owner[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]",
-		"description_russian": "[COLOR=#fff34f]Символ абсолютной свободы и мощи. Эта яхта создана для тех, кто стремится к приключениям и не боится покорять волны. Уникальная и редкая, она гарантирует владельцу незабываемые путешествия[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]"
+		"description_english": "[COLOR=#fff34f]A symbol of absolute freedom and power. This yacht is made for those who seek adventure and aren’t afraid to conquer the waves. Unique and rare, it guarantees unforgettable journeys for its owner[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/COLOR]",
+		"description_russian": "[COLOR=#fff34f]Символ абсолютной свободы и мощи. Эта яхта создана для тех, кто стремится к приключениям и не боится покорять волны. Уникальная и редкая, она гарантирует владельцу незабываемые путешествия[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/COLOR]"
 		
 	},
 	{
@@ -630,8 +630,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/58_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_english": "[COLOR=#fff34f]A yacht with exquisite design and elegant lines. It’s not just a means of transportation but a work of art that evokes envy and admiration. Your personal oasis on the water[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]",
-		"description_russian": "[COLOR=#fff34f]Яхта с изысканным дизайном и элегантными линиями. Она не просто средство передвижения, а произведение искусства, вызывающее зависть и восхищение. Это твой личный оазис на воде[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]"
+		"description_english": "[COLOR=#fff34f]A yacht with exquisite design and elegant lines. It’s not just a means of transportation but a work of art that evokes envy and admiration. Your personal oasis on the water[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/COLOR]",
+		"description_russian": "[COLOR=#fff34f]Яхта с изысканным дизайном и элегантными линиями. Она не просто средство передвижения, а произведение искусства, вызывающее зависть и восхищение. Это твой личный оазис на воде[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/COLOR]"
 	},
 	{
 		"itemdefid": 59,
@@ -644,8 +644,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/59_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_english": "[COLOR=#fff34f]This luxurious private jet symbolizes exclusivity and success. It allows you to soar where ordinary vehicles cannot reach. Only the luckiest players can add it to their collection[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]",
-		"description_russian": "[COLOR=#fff34f]Этот роскошный частный самолет символизирует исключительность и успех. Позволяет тебе летать туда, куда не долетят обычные машины. Только самые удачливые игроки смогут заполучить его в свою коллекцию[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]"
+		"description_english": "[COLOR=#fff34f]This luxurious private jet symbolizes exclusivity and success. It allows you to soar where ordinary vehicles cannot reach. Only the luckiest players can add it to their collection[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/COLOR]",
+		"description_russian": "[COLOR=#fff34f]Этот роскошный частный самолет символизирует исключительность и успех. Позволяет тебе летать туда, куда не долетят обычные машины. Только самые удачливые игроки смогут заполучить его в свою коллекцию[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Delta%20Case]• Delta collection[/url][/COLOR]"
 	},
 	{
 		"itemdefid": 60,
@@ -658,8 +658,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/SMAX1337/ContainersManager/main/Graphics/60_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Древний артефакт, скрывающий в себе сущность дракона. Легенда гласит, что он пробудится, чтобы исполнить пророчество\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
-                "description_english": "An ancient artifact containing the essence of a dragon. Legend says it will awaken to fulfill a prophecy\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
+		"description_russian": "Древний артефакт, скрывающий в себе сущность дракона. Легенда гласит, что он пробудится, чтобы исполнить пророчество\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact containing the essence of a dragon. Legend says it will awaken to fulfill a prophecy\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Frontier%20Case]• Frontier collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 101,
